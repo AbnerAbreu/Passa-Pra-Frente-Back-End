@@ -1,4 +1,4 @@
-#!/home/ubuntu/Documentos/passa-pra-noz-back/env/bin/python3
+#!/home/jefferson/Documents/passa-pra-frente/backend/env/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
